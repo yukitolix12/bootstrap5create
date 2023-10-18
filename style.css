@@ -6,6 +6,10 @@
     --body: #888;
 }
 
+body {
+    font-family: "Sora", sans-serif;
+}
+
 .navbar .nav-link {
     color: #fff !important;
     font-size: 14px;
