@@ -39,3 +39,7 @@ a {
     border-width: 2px;
     border-radius: 0;
 }
+
+.hero {
+    background-image: url("/img/cover.jpg");
+}
