@@ -28,6 +28,11 @@ a {
     text-decoration: none;
 }
 
+section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 .navbar .nav-link {
     color: #fff !important;
     font-size: 14px;
