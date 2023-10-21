@@ -71,4 +71,5 @@ section {
     box-shadow: var(--box-shadow);
     background-color: #fff;
     padding: 25px;
+    transition: all 0.35s ease;
 }
