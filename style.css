@@ -108,6 +108,11 @@ section {
     z-index: -1;
 }
 
+.service:hover h5,
+.service:hover p {
+    color: white;
+}
+
 .service:hover::after {
     opacity: 1;
     top: 0;
