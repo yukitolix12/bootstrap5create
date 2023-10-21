@@ -69,4 +69,5 @@ section {
 
 .card-effect {
     box-shadow: var(--box-shadow);
+    background-color: #fff;
 }
