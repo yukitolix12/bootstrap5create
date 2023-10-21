@@ -109,4 +109,5 @@ section {
 
 .service:hover::after {
     opacity: 1;
+    top: 0;
 }
