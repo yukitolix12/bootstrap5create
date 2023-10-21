@@ -4,6 +4,7 @@
     --primary: #0d6efd;
     --dark: #21252f;
     --body: #888;
+    --box-shadow: 0 8px 22px rgba(0,0,0,0.2);
 }
 
 body {
@@ -64,4 +65,8 @@ section {
     left: 0;
     background-color: rgba(37, 39, 71,0.7);
     z-index: -1;
+}
+
+.card-effect {
+    box-shadow: var(--box-shadow);
 }
