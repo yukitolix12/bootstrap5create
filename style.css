@@ -78,3 +78,19 @@ section {
     box-shadow: none;
     transform: translateY(5px);
 }
+
+.iconbox {
+    width: 54px;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 32px;
+    background-color: var(--primary);
+    border-radius: 100px;
+}
+
+.service {
+    position: relative;
+}
