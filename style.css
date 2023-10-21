@@ -76,4 +76,5 @@ section {
 
 .card-effect:hover {
     box-shadow: none;
+    transform: translateY(5px);
 }
