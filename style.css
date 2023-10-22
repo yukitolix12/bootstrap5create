@@ -113,6 +113,11 @@ section {
     color: white;
 }
 
+.service:hover .iconbox {
+    background-color: #fff;
+    color: var(--primary);
+}
+
 .service:hover::after {
     opacity: 1;
     top: 0;
