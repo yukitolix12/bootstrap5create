@@ -126,5 +126,6 @@ section {
 
 .col-img {
     background-image: url(./img/cover2.jpg);
+    background-position: center;
     min-height: 500px;
 }
