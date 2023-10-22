@@ -123,3 +123,7 @@ section {
     opacity: 1;
     top: 0;
 }
+
+.col-img {
+    background-image: url(./img/cover2.jpg);
+}
