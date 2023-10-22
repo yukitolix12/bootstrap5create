@@ -93,6 +93,7 @@ section {
 
 .service {
     position: relative;
+    overflow: hidden;
 }
 
 .service::after {
