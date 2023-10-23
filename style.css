@@ -89,6 +89,7 @@ section {
     font-size: 32px;
     background-color: var(--primary);
     border-radius: 100px;
+    flex: none;
 }
 
 .service {
