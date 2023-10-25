@@ -155,6 +155,10 @@ img {
     width: 100%;
 }
 
+.project:hover .overlay {
+    opacity: 1;
+}
+
 .project:hover img {
     transform: scale(1.1);
 }
