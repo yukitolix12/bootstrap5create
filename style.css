@@ -135,6 +135,7 @@ section {
 /* projects section*/
 .project {
     position: relative;
+    overflow: hidden;
 }
 
 .project .overlay {
