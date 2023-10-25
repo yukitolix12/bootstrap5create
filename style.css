@@ -131,3 +131,8 @@ section {
     background-size: cover;
     min-height: 500px;
 }
+
+/* projects section*/
+.project {
+    position: relative;
+}
