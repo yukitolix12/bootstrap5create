@@ -154,3 +154,7 @@ section {
 img {
     width: 100%;
 }
+
+.project:hover img {
+    transform: scale(1.1);
+}
