@@ -136,3 +136,12 @@ section {
 .project {
     position: relative;
 }
+
+.project .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(37, 39, 71,0.7);
+}
