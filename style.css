@@ -193,3 +193,8 @@ img {
     border-radius: 100px;
     margin-left: 5px;
 }
+
+.social-icons a:hover {
+    color: var(--primary);
+    background-color: transparent;
+}
