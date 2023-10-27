@@ -174,3 +174,15 @@ img {
     height: 125px;
     border-radius: 100px;
 }
+
+.social-icons a {
+    width: 34px;
+    height: 34px;
+    background-color: var(--primary);
+    border: 2px solid var(--primary);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+}
