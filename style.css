@@ -175,6 +175,12 @@ img {
     border-radius: 100px;
 }
 
+.social-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .social-icons a {
     width: 34px;
     height: 34px;
