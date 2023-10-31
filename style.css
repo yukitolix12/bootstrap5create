@@ -216,3 +216,7 @@ form .form-control {
     padding: 90px;
     padding-bottom: 90px;
 }
+
+.footer-top a {
+    color: var(--body);
+}
