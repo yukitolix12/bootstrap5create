@@ -220,3 +220,7 @@ form .form-control {
 .footer-top a {
     color: var(--body);
 }
+
+.footer-top a:hover {
+    color: #fff;
+}
