@@ -199,3 +199,8 @@ img {
     color: var(--primary);
     background-color: transparent;
 }
+
+/* contact section */
+form input.form-control {
+    height: 56px;
+}
